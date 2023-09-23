@@ -1,8 +1,7 @@
-[
-  {
-    "name": "Ignored tests",
-    "matchedStatuses": ["skipped"]
-  },
+[{
+  "name": "Ignored tests",
+  "matchedStatuses": ["skipped"]
+},
   {
     "name": "Infrastructure problems",
     "matchedStatuses": ["broken", "failed"],
